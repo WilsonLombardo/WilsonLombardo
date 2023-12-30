@@ -11,7 +11,7 @@
 
 
 ## Work Experience
-**PhD fellow (_April 2021 - Present_)**
+**PhD fellow @ IMAL-CONICET (_April 2021 - Present_)**
 - Research
 - Worked in Academic Publishing
 - I am currently gaining skills in the latest mathematical and engineering applications
