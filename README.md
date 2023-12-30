@@ -23,4 +23,4 @@
 - Administrative assistance
 - Operational coordination
 
-**Professor and Administrative secretary at High school @ Ministerio de Educación de la Nación Argentina, Jurisdicciones Chaco y Neuquén (_march 2019 - November 2023_)**
+**Professor and Administrative secretary at High school @ Ministerio de Educación de la Nación Argentina, Jurisdicciones Chaco, Neuquén y Santa Fe (_March 2019 - November 2023_)**
