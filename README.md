@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi, I'm Wilson
+# Free lance trainee Data Scientist
 
-<!--
-**WilsonLombardo/WilsonLombardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Technical Skills: Python, R, SQL, AWS, MATLAB, Java
 
-Here are some ideas to get you started:
+## Education
+- PhD student in Mathematical Engineering | Universidad Nacional del Litora, Argentina.								       				
+- B.S., Mathematics | Universidad Nacional del Chaco Austral, Argentina
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Work Experience
+**PhD fellow (_April 2021 - Present_)**
+- Research
+- Worked in Academic Publishing
+- I am currently gaining skills in the latest mathematical and engineering applications
+
+**Administrative secretary at bus company @ Cono Sur (_December 2019 - March 2020_)**
+- Financial management
+- Documentation management
+- Administrative assistance
+- Operational coordination
+
+**Professor and Administrative secretary at High school @ Ministerio de Educación de la Nación Argentina, Jurisdicciones Chaco y Neuquén (_march 2019 - November 2023_)**
