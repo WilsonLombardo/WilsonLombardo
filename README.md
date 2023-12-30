@@ -1,13 +1,14 @@
 ### Hi, I'm Wilson
 # Freelance trainee Data Scientist
 
-#### Technical Skills: Python, R, SQL, AWS, MATLAB, Java, Octave, Vensim, LaTex.
+#### Technical Skills: Python, R, SQL, AWS, MATLAB, Java, Octave, Vensim, LaTex, Postgraduate courses in machine learning and statistics in R. Courses: introduction to machine learning with python, Data processing with Python, full stack developer jr.
 
 ![Imagen de Portada](/portadas-notas-web-34-980x470-c-default.png)
 
 ## Education
 - PhD student in Mathematical Engineering | Universidad Nacional del Litora, Argentina.								       				
 - B.S., Mathematics | Universidad Nacional del Chaco Austral, Argentina
+- 
 
 
 ## Work Experience
