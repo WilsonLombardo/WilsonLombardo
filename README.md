@@ -1,5 +1,5 @@
 ### Hi, I'm Wilson
-# Free lance trainee Data Scientist
+# Freelance trainee Data Scientist
 
 #### Technical Skills: Python, R, SQL, AWS, MATLAB, Java, Octave, Vensim, LaTex.
 
