@@ -1,7 +1,7 @@
 ### Hi, I'm Wilson
 # Freelance trainee Data Scientist
 
-#### Technical Skills: Python, R, SQL, AWS, MATLAB, Java, Octave, Vensim, LaTex, Postgraduate courses in machine learning and statistics in R. Courses: introduction to machine learning with python, Data processing with Python, full stack developer jr.
+#### Technical Skills: Python, R, SQL, AWS, MATLAB, Java, Octave, Vensim, LaTex, Postgraduate courses in Machine Learning and Statistics in R. Courses: Introduction to Machine Learning with Python, Data Processing with Python, Full Stack Developer Jr.
 
 ![Imagen de Portada](/portadas-notas-web-34-980x470-c-default.png)
 
